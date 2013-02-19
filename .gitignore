@@ -1,6 +1,6 @@
 *.class
 
 # Package Files #
-*.jar
+*EPIC_PACK.jar
 *.war
 *.ear
